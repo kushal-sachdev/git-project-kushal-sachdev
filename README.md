@@ -14,3 +14,7 @@ I am a student at Upgrad School Of Technology , currently learning git and git h
 
 ## Contact 
 - Email : kushalsachdev869@gmail.com
+
+## Hobbies 
+- Badminton 
+- Listening to music 
